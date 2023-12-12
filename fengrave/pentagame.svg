@@ -1,0 +1,2378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1999"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="pentagame.svg">
+  <defs
+     id="defs1993" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.24"
+     inkscape:cx="400"
+     inkscape:cy="445.71429"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="37.797619,135.74405"
+       orientation="1,0"
+       id="guide2566" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1996">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;line-height:1.25;font-family:Eurostile;-inkscape-font-specification:Eurostile;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       x="23.270754"
+       y="175.83461"
+       id="text2564"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan2562"
+         x="23.270754"
+         y="175.83461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Eurostile;-inkscape-font-specification:Eurostile;stroke-width:0.6;fill:none;stroke:#000000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none">PENTAGAME</tspan></text>
+    <g
+       id="g843"
+       transform="matrix(0.62198377,0,0,-0.62198377,100,80.762287)"
+       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         id="g845"
+         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+        <g
+           id="g847"
+           style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+          <g
+             id="g849"
+             style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+            <g
+               id="g851"
+               style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+              <path
+                 d="M 103.11569,0 C 103.11569,56.94995 56.94995,103.11569 0,103.11569 -56.94995,103.11569 -103.11569,56.94995 -103.11569,0 c 0,-56.94995 46.16574,-103.11569 103.11569,-103.11569 56.94995,0 103.11569,46.16574 103.11569,103.11569 z"
+                 style="fill:none;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path853" />
+              <g
+                 id="g855"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g857"
+                   transform="translate(-31.865,98.068)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g859"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g861"
+                     transform="translate(31.865,-98.068)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g863"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g865"
+                   transform="translate(-60.609,83.422)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g867"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g869"
+                     transform="translate(60.609,-83.422)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g871"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g873"
+                   transform="translate(-83.422,60.609)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g875"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g877"
+                     transform="translate(83.422,-60.609)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g879"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g881"
+                   transform="translate(-103.114)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g883"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g885"
+                     transform="translate(103.114)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g887"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g889"
+                   transform="translate(-98.069,-31.865)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g891"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g893"
+                     transform="translate(98.069,31.865)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g895"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g897"
+                   transform="translate(-83.422,-60.609)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g899"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g901"
+                     transform="translate(83.422,60.609)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g903"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g905"
+                   transform="translate(-31.865,-98.069)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g907"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g909"
+                     transform="translate(31.865,98.069)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g911"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g913"
+                   transform="translate(0,-103.114)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g915"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g917"
+                     transform="translate(0,103.114)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g919"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g921"
+                   transform="translate(31.864,-98.068)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g923"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g925"
+                     transform="translate(-31.864,98.068)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g927"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g929"
+                   transform="translate(83.422,-60.609)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g931"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g933"
+                     transform="translate(-83.422,60.609)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g935"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g937"
+                   transform="translate(98.068,-31.865)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g939"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g941"
+                     transform="translate(-98.068,31.865)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g943"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g945"
+                   transform="translate(103.114)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g947"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g949"
+                     transform="translate(-103.114)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g951"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g953"
+                   transform="translate(83.422,60.609)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g955"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g957"
+                     transform="translate(-83.422,-60.609)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g959"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g961"
+                   transform="translate(60.609,83.422)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g963"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g965"
+                     transform="translate(-60.609,-83.422)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g967"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g969"
+                   transform="translate(31.864,98.068)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g971"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g973"
+                     transform="translate(-31.864,-98.068)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g975"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g977"
+                   transform="translate(-31.865,98.068)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g979"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g981"
+                     transform="translate(31.865,-98.068)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g983"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g985"
+                   transform="translate(-60.609,83.422)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g987"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g989"
+                     transform="translate(60.609,-83.422)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g991"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g993"
+                   transform="translate(-83.422,60.609)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g995"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g997"
+                     transform="translate(83.422,-60.609)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g999"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1001"
+                   transform="translate(0,103.114)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1003"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1005"
+                     transform="translate(0,-103.114)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1007"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1009"
+                   transform="translate(0,-39.387)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1011"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1013"
+                     transform="translate(0,39.387)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1015"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1017"
+                   transform="translate(-98.069,31.865)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1019"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1021"
+                     transform="translate(98.069,-31.865)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1023"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1025"
+                   transform="translate(37.459,-12.171)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1027"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1029"
+                     transform="translate(-37.459,12.171)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1031"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1033"
+                   transform="translate(-60.609,-83.422)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1035"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1037"
+                     transform="translate(60.609,83.422)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1039"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1041"
+                   transform="translate(23.151,31.865)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1043"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1045"
+                     transform="translate(-23.151,-31.865)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1047"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1049"
+                   transform="translate(60.609,-83.422)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1051"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1053"
+                     transform="translate(-60.609,83.422)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1055"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1057"
+                   transform="translate(-23.151,31.865)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1059"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1061"
+                     transform="translate(23.151,-31.865)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1063"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1065"
+                   transform="translate(98.068,31.865)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1067"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1069"
+                     transform="translate(-98.068,-31.865)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1071"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1073"
+                   transform="translate(-37.459,-12.171)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1075"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1077"
+                     transform="translate(37.459,12.171)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1079"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1081"
+                   transform="translate(0,103.114)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1083"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1085"
+                     transform="translate(0,-103.114)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1087"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1089"
+                   transform="translate(0,-39.387)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1091"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1093"
+                     transform="translate(0,39.387)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <path
+                 d="M -1.14124,99.59587 -59.46619,-79.90292"
+                 style="fill:none;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1095" />
+              <path
+                 d="M -94.54991,29.31248 57.08992,-80.8684"
+                 style="fill:none;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1097" />
+              <path
+                 d="M -57.08992,-80.87032 94.54991,29.31055"
+                 style="fill:none;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1099" />
+              <path
+                 d="M 59.46849,-79.90292 1.14354,99.59587"
+                 style="fill:none;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1101" />
+              <path
+                 d="M 94.54991,31.8649 H -94.54991"
+                 style="fill:none;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="path1103" />
+              <g
+                 id="g1105"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1107"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1109"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 10.302,103.11569 c 0,5.68971 -4.6123,10.30202 -10.302,10.30202 -5.6897,0 -10.302,-4.61231 -10.302,-10.30202 0,-5.68969 4.6123,-10.30202 10.302,-10.30202 5.6897,0 10.302,4.61233 10.302,10.30202 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1111" />
+                  </g>
+                  <g
+                     id="g1113"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 8.24162,103.11569 c 0,4.55178 -3.68985,8.24164 -8.24162,8.24164 -4.55177,0 -8.24162,-3.68986 -8.24162,-8.24164 0,-4.55177 3.68985,-8.24162 8.24162,-8.24162 4.55177,0 8.24162,3.68985 8.24162,8.24162 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1115" />
+                  </g>
+                  <g
+                     id="g1117"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1119"
+                       transform="translate(4.607,88.935)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1121"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1123"
+                         transform="translate(-4.607,-88.935)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1125"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1127"
+                       transform="translate(7.455,80.171)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1129"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1131"
+                         transform="translate(-7.455,-80.171)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1133"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1135"
+                       transform="translate(10.302,71.408)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1137"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1139"
+                         transform="translate(-10.302,-71.408)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1141"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1143"
+                       transform="translate(13.149,62.645)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1145"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1147"
+                         transform="translate(-13.149,-62.645)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1149"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1151"
+                       transform="translate(15.997,53.881)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1153"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1155"
+                         transform="translate(-15.997,-53.881)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1157"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1159"
+                       transform="translate(18.844,45.118)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1161"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1163"
+                         transform="translate(-18.844,-45.118)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1165"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1167"
+                       transform="translate(-4.607,88.935)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1169"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1171"
+                         transform="translate(4.607,-88.935)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1173"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1175"
+                       transform="translate(-7.455,80.171)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1177"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1179"
+                         transform="translate(7.455,-80.171)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1181"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1183"
+                       transform="translate(-10.302,71.408)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1185"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1187"
+                         transform="translate(10.302,-71.408)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1189"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1191"
+                       transform="translate(-13.149,62.645)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1193"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1195"
+                         transform="translate(13.149,-62.645)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1197"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1199"
+                       transform="translate(-15.997,53.881)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1201"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1203"
+                         transform="translate(15.997,-53.881)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1205"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1207"
+                       transform="translate(-18.844,45.118)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1209"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1211"
+                         transform="translate(18.844,-45.118)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1213"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1215"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1217"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 9.33449,-39.38724 c 0,5.15535 -4.17914,9.33451 -9.33449,9.33451 -5.15535,0 -9.33449,-4.17916 -9.33449,-9.33451 0,-5.15535 4.17914,-9.3345 9.33449,-9.3345 5.15535,0 9.33449,4.17915 9.33449,9.3345 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1219" />
+                  </g>
+                  <g
+                     id="g1221"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1223"
+                       transform="translate(11.279,-31.192)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1225"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1227"
+                         transform="translate(-11.279,31.192)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1229"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1231"
+                       transform="translate(18.734,-25.776)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1233"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1235"
+                         transform="translate(-18.734,25.776)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1237"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1239"
+                       transform="translate(26.188,-20.36)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1241"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1243"
+                         transform="translate(-26.188,20.36)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1245"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1247"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1249"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m -94.8862,41.66278 c -5.41127,1.75822 -11.22318,-1.20306 -12.9814,-6.61433 -1.75824,-5.41129 1.20305,-11.22319 6.61433,-12.98142 5.41127,-1.75823 11.22318,1.20305 12.9814,6.61434 1.75824,5.41128 -1.20304,11.22317 -6.61433,12.98141 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1251" />
+                  </g>
+                  <g
+                     id="g1253"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m -95.5229,39.70323 c -4.32904,1.40659 -8.97856,-0.96246 -10.38515,-5.29149 -1.4066,-4.32904 0.96245,-8.97856 5.29149,-10.38516 4.32902,-1.40658 8.97856,0.96245 10.38515,5.29149 1.4066,4.32904 -0.96245,8.97856 -5.29149,10.38516 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1255" />
+                  </g>
+                  <g
+                     id="g1257"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1259"
+                       transform="translate(-83.159,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1261"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1263"
+                         transform="translate(83.159,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1265"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1267"
+                       transform="translate(-73.945,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1269"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1271"
+                         transform="translate(73.945,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1273"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1275"
+                       transform="translate(-64.73,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1277"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1279"
+                         transform="translate(64.73,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1281"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1283"
+                       transform="translate(-55.516,31.864)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1285"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1287"
+                         transform="translate(55.516,-31.864)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1289"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1291"
+                       transform="translate(-46.301,31.864)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1293"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1295"
+                         transform="translate(46.301,-31.864)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1297"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1299"
+                       transform="translate(-37.087,31.864)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1301"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1303"
+                         transform="translate(37.087,-31.864)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1305"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1307"
+                       transform="translate(-86.007,23.101)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1309"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1311"
+                         transform="translate(86.007,-23.101)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1313"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1315"
+                       transform="translate(-78.552,17.685)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1317"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1319"
+                         transform="translate(78.552,-17.685)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1321"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1323"
+                       transform="translate(-71.097,12.269)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1325"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1327"
+                         transform="translate(71.097,-12.269)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1329"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1331"
+                       transform="translate(-63.643,6.853)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1333"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1335"
+                         transform="translate(63.643,-6.853)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1337"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1339"
+                       transform="translate(-56.188,1.436)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1341"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1343"
+                         transform="translate(56.188,-1.436)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1345"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1347"
+                       transform="translate(-48.733,-3.98)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1349"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1351"
+                         transform="translate(48.733,3.98)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1353"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1355"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1357"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="M 40.34438,-3.29376 C 35.4413,-1.70065 30.17522,-4.38385 28.5821,-9.28693 c -1.59309,-4.90307 1.0901,-10.16914 5.99319,-11.76225 4.90307,-1.59311 10.16914,1.09009 11.76225,5.99316 1.59311,4.90308 -1.09009,10.16915 -5.99316,11.76226 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1359" />
+                  </g>
+                  <g
+                     id="g1361"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1363"
+                       transform="translate(33.151,1.088)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1365"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1367"
+                         transform="translate(-33.151,-1.088)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1369"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1371"
+                       transform="translate(30.304,9.851)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1373"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1375"
+                         transform="translate(-30.304,-9.851)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1377"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1379"
+                       transform="translate(27.456,18.615)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1381"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1383"
+                         transform="translate(-27.456,-18.615)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1385"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1387"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1389"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m -68.94427,-77.3674 c -3.34432,-4.6031 -2.3239,-11.04558 2.2792,-14.3899 4.60309,-3.34431 11.04557,-2.32389 14.38988,2.27921 3.34431,4.60309 2.32389,11.04558 -2.27919,14.38988 -4.60311,3.34431 -11.04558,2.3239 -14.38989,-2.27919 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1391" />
+                  </g>
+                  <g
+                     id="g1393"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m -67.27737,-78.57846 c -2.67547,-3.68248 -1.85913,-8.83649 1.82334,-11.51194 3.68248,-2.67545 8.83649,-1.85912 11.51195,1.82336 2.67545,3.68248 1.85912,8.83648 -1.82336,11.51194 -3.68248,2.67545 -8.83649,1.85912 -11.51193,-1.82336 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1395" />
+                  </g>
+                  <g
+                     id="g1397"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1399"
+                       transform="translate(-56.002,-69.242)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1401"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1403"
+                         transform="translate(56.002,69.242)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1405"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1407"
+                       transform="translate(-53.154,-60.479)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1409"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1411"
+                         transform="translate(53.154,60.479)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1413"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1415"
+                       transform="translate(-50.307,-51.715)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1417"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1419"
+                         transform="translate(50.307,51.715)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1421"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1423"
+                       transform="translate(-47.46,-42.952)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1425"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1427"
+                         transform="translate(47.46,42.952)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1429"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1431"
+                       transform="translate(-44.612,-34.188)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1433"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1435"
+                         transform="translate(44.612,34.188)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1437"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1439"
+                       transform="translate(-41.765,-25.425)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1441"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1443"
+                         transform="translate(41.765,25.425)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1445"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1447"
+                       transform="translate(-48.547,-74.658)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1449"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1451"
+                         transform="translate(48.547,74.658)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1453"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1455"
+                       transform="translate(-41.093,-69.242)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1457"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1459"
+                         transform="translate(41.093,69.242)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1461"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1463"
+                       transform="translate(-33.638,-63.826)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1465"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1467"
+                         transform="translate(33.638,63.826)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1469"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1471"
+                       transform="translate(-26.183,-58.41)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1473"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1475"
+                         transform="translate(26.183,58.41)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1477"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1479"
+                       transform="translate(-18.729,-52.994)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1481"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1483"
+                         transform="translate(18.729,52.994)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1485"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1487"
+                       transform="translate(-11.274,-47.578)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1489"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1491"
+                         transform="translate(11.274,47.578)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1493"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1495"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1497"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="M 15.59938,37.35176 C 12.56914,33.18097 13.49373,27.34354 17.6645,24.3133 c 4.1708,-3.03025 10.00823,-2.10566 13.03847,2.06512 3.03025,4.17079 2.10565,10.00822 -2.06512,13.03847 -4.17079,3.03024 -10.00823,2.10565 -13.03847,-2.06513 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1499" />
+                  </g>
+                  <g
+                     id="g1501"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1503"
+                       transform="translate(9.209,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1505"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1507"
+                         transform="translate(-9.209,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1509"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1511"
+                       transform="translate(-0.005,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1513"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1515"
+                         transform="translate(0.005,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1517"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1519"
+                       transform="translate(-9.219,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1521"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1523"
+                         transform="translate(9.219,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1525"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1527"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1529"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 52.27519,-89.47809 c 3.34431,-4.6031 9.78679,-5.62352 14.38988,-2.27921 4.6031,3.34432 5.62352,9.7868 2.2792,14.3899 -3.34431,4.60309 -9.78678,5.6235 -14.38989,2.27919 -4.60308,-3.3443 -5.6235,-9.78679 -2.27919,-14.38988 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1531" />
+                  </g>
+                  <g
+                     id="g1533"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 53.94208,-88.26704 c 2.67546,-3.68248 7.82947,-4.49881 11.51195,-1.82336 3.68247,2.67545 4.49881,7.82946 1.82334,11.51194 -2.67544,3.68248 -7.82945,4.49881 -11.51193,1.82336 -3.68248,-2.67546 -4.49881,-7.82946 -1.82336,-11.51194 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1535" />
+                  </g>
+                  <g
+                     id="g1537"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1539"
+                       transform="translate(48.547,-74.658)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1541"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1543"
+                         transform="translate(-48.547,74.658)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1545"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1547"
+                       transform="translate(41.093,-69.242)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1549"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1551"
+                         transform="translate(-41.093,69.242)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1553"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1555"
+                       transform="translate(33.638,-63.826)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1557"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1559"
+                         transform="translate(-33.638,63.826)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1561"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1563"
+                       transform="translate(26.183,-58.41)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1565"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1567"
+                         transform="translate(-26.183,58.41)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1569"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1571"
+                       transform="translate(18.729,-52.994)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1573"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1575"
+                         transform="translate(-18.729,52.994)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1577"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1579"
+                       transform="translate(11.274,-47.578)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1581"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1583"
+                         transform="translate(-11.274,47.578)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1585"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1587"
+                       transform="translate(56.002,-69.242)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1589"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1591"
+                         transform="translate(-56.002,69.242)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1593"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1595"
+                       transform="translate(53.154,-60.479)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1597"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1599"
+                         transform="translate(-53.154,60.479)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1601"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1603"
+                       transform="translate(50.307,-51.715)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1605"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1607"
+                         transform="translate(-50.307,51.715)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1609"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1611"
+                       transform="translate(47.46,-42.952)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1613"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1615"
+                         transform="translate(-47.46,42.952)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1617"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1619"
+                       transform="translate(44.612,-34.188)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1621"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1623"
+                         transform="translate(-44.612,34.188)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1625"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1627"
+                       transform="translate(41.765,-25.425)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1629"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1631"
+                         transform="translate(-41.765,25.425)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1633"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1635"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1637"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m -30.70297,26.37842 c 3.03024,-4.17078 8.86767,-5.09537 13.03847,-2.06512 4.17077,3.03024 5.09536,8.86767 2.06512,13.03846 -3.03024,4.17078 -8.86768,5.09537 -13.03847,2.06513 -4.17077,-3.03025 -5.09537,-8.86768 -2.06512,-13.03847 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1639" />
+                  </g>
+                  <g
+                     id="g1641"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1643"
+                       transform="translate(-27.459,18.605)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1645"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1647"
+                         transform="translate(27.459,-18.605)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1649"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1651"
+                       transform="translate(-30.307,9.842)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1653"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1655"
+                         transform="translate(30.307,-9.842)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1657"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1659"
+                       transform="translate(-33.154,1.079)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1661"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1663"
+                         transform="translate(33.154,-1.079)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1665"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1667"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1669"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 101.25327,22.06703 c 5.41128,1.75823 8.37257,7.57013 6.61433,12.98142 -1.75822,5.41127 -7.57013,8.37255 -12.9814,6.61433 -5.41129,-1.75824 -8.37257,-7.57013 -6.61433,-12.98141 1.75822,-5.41129 7.57013,-8.37257 12.9814,-6.61434 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1671" />
+                  </g>
+                  <g
+                     id="g1673"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 100.61656,24.02658 c 4.32904,1.4066 6.69809,6.05612 5.29149,10.38516 -1.40659,4.32903 -6.05611,6.69808 -10.38515,5.29149 -4.32904,-1.4066 -6.69809,-6.05612 -5.29149,-10.38516 1.40659,-4.32904 6.05613,-6.69807 10.38515,-5.29149 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1675" />
+                  </g>
+                  <g
+                     id="g1677"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1679"
+                       transform="translate(86.007,23.101)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1681"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1683"
+                         transform="translate(-86.007,-23.101)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1685"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1687"
+                       transform="translate(78.552,17.685)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1689"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1691"
+                         transform="translate(-78.552,-17.685)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1693"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1695"
+                       transform="translate(71.097,12.269)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1697"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1699"
+                         transform="translate(-71.097,-12.269)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1701"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1703"
+                       transform="translate(63.643,6.853)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1705"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1707"
+                         transform="translate(-63.643,-6.853)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1709"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1711"
+                       transform="translate(56.188,1.436)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1713"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1715"
+                         transform="translate(-56.188,-1.436)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1717"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1719"
+                       transform="translate(48.733,-3.98)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1721"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1723"
+                         transform="translate(-48.733,3.98)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1725"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1727"
+                       transform="translate(83.159,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1729"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1731"
+                         transform="translate(-83.159,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1733"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1735"
+                       transform="translate(73.945,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1737"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1739"
+                         transform="translate(-73.945,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1741"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1743"
+                       transform="translate(64.73,31.865)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1745"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1747"
+                         transform="translate(-64.73,-31.865)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1749"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1751"
+                       transform="translate(55.516,31.864)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1753"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1755"
+                         transform="translate(-55.516,-31.864)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1757"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1759"
+                       transform="translate(46.301,31.864)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1761"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1763"
+                         transform="translate(-46.301,-31.864)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1765"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1767"
+                       transform="translate(37.087,31.864)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1769"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1771"
+                         transform="translate(-37.087,-31.864)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1773"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1775"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1777"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m -34.57529,-21.04918 c 4.90309,1.59311 7.58628,6.85918 5.99319,11.76225 -1.59312,4.90308 -6.8592,7.58628 -11.76228,5.99317 -4.90307,-1.59311 -7.58627,-6.85918 -5.99316,-11.76226 1.59311,-4.90307 6.85918,-7.58627 11.76225,-5.99316 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1779" />
+                  </g>
+                  <g
+                     id="g1781"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1783"
+                       transform="translate(-26.18,-20.366)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1785"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1787"
+                         transform="translate(26.18,20.366)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1789"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1791"
+                       transform="translate(-18.726,-25.782)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1793"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1795"
+                         transform="translate(18.726,25.782)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1797"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1799"
+                       transform="translate(-11.271,-31.198)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1801"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1803"
+                         transform="translate(11.271,31.198)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1805"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1807"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1809"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 10.302,103.11569 c 0,5.68971 -4.6123,10.30202 -10.302,10.30202 -5.6897,0 -10.302,-4.61231 -10.302,-10.30202 0,-5.68969 4.6123,-10.30202 10.302,-10.30202 5.6897,0 10.302,4.61233 10.302,10.30202 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1811" />
+                  </g>
+                  <g
+                     id="g1813"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 8.24162,103.11569 c 0,4.55178 -3.68985,8.24164 -8.24162,8.24164 -4.55177,0 -8.24162,-3.68986 -8.24162,-8.24164 0,-4.55177 3.68985,-8.24162 8.24162,-8.24162 4.55177,0 8.24162,3.68985 8.24162,8.24162 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1815" />
+                  </g>
+                  <g
+                     id="g1817"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1819"
+                       transform="translate(4.607,88.935)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1821"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1823"
+                         transform="translate(-4.607,-88.935)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1825"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1827"
+                       transform="translate(7.455,80.171)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1829"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1831"
+                         transform="translate(-7.455,-80.171)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1833"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1835"
+                       transform="translate(10.302,71.408)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1837"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1839"
+                         transform="translate(-10.302,-71.408)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1841"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1843"
+                       transform="translate(13.149,62.645)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1845"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1847"
+                         transform="translate(-13.149,-62.645)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1849"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1851"
+                       transform="translate(15.997,53.881)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1853"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1855"
+                         transform="translate(-15.997,-53.881)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1857"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1859"
+                       transform="translate(18.844,45.118)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1861"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1863"
+                         transform="translate(-18.844,-45.118)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1865"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1867"
+                       transform="translate(-4.607,88.935)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1869"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1871"
+                         transform="translate(4.607,-88.935)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1873"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1875"
+                       transform="translate(-7.455,80.171)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1877"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1879"
+                         transform="translate(7.455,-80.171)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1881"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1883"
+                       transform="translate(-10.302,71.408)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1885"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1887"
+                         transform="translate(10.302,-71.408)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1889"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1891"
+                       transform="translate(-13.149,62.645)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1893"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1895"
+                         transform="translate(13.149,-62.645)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1897"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1899"
+                       transform="translate(-15.997,53.881)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1901"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1903"
+                         transform="translate(15.997,-53.881)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1905"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1907"
+                       transform="translate(-18.844,45.118)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1909"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1911"
+                         transform="translate(18.844,-45.118)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1913"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1915"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1917"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <path
+                       d="m 9.33449,-39.38724 c 0,5.15535 -4.17914,9.33451 -9.33449,9.33451 -5.15535,0 -9.33449,-4.17916 -9.33449,-9.33451 0,-5.15535 4.17914,-9.3345 9.33449,-9.3345 5.15535,0 9.33449,4.17915 9.33449,9.3345 z"
+                       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9646554;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                       id="path1919" />
+                  </g>
+                  <g
+                     id="g1921"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1923"
+                       transform="translate(11.279,-31.192)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1925"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1927"
+                         transform="translate(-11.279,31.192)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1929"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1931"
+                       transform="translate(18.734,-25.776)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1933"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1935"
+                         transform="translate(-18.734,25.776)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                  <g
+                     id="g1937"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                    <g
+                       id="g1939"
+                       transform="translate(26.188,-20.36)"
+                       style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                      <g
+                         id="g1941"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                      <g
+                         id="g1943"
+                         transform="translate(-26.188,20.36)"
+                         style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <g
+                 id="g1945"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1947"
+                   transform="translate(0,10.302)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1949"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1951"
+                     transform="translate(0,-10.302)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1953"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1955"
+                   transform="translate(-9.798,3.183)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1957"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1959"
+                     transform="translate(9.798,-3.183)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1961"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1963"
+                   transform="translate(-6.055,-8.334)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1965"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1967"
+                     transform="translate(6.055,8.334)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1969"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1971"
+                   transform="translate(6.055,-8.334)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1973"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1975"
+                     transform="translate(-6.055,8.334)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1977"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1979"
+                   transform="translate(9.798,3.183)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1981"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1983"
+                     transform="translate(-9.798,-3.183)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+              <g
+                 id="g1985"
+                 style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                <g
+                   id="g1987"
+                   transform="translate(0,10.302)"
+                   style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1">
+                  <g
+                     id="g1989"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                  <g
+                     id="g1991"
+                     transform="translate(0,-10.302)"
+                     style="stroke-width:0.9646554;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000000;stroke-opacity:1" />
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
